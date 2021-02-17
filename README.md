@@ -1,5 +1,5 @@
 # Aryan_byhack
-
+# هک فریند بهترین کرک بر سرعت 
 
 # apt update 
 # apt upgrade 
